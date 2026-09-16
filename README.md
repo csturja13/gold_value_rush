@@ -1,1 +1,1 @@
-This is done in a Machine Learning course group project.
+This is done in a Machine Learning course as a group project.
